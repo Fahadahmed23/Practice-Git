@@ -1,2 +1,1 @@
-# This is git new-branch
-# Testing rebase command
+# Practice GIT with Fahad Ahmed
