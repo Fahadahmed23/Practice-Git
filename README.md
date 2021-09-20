@@ -1,1 +1,1 @@
-# Practice-Git with Fahad Ahmed
+# Practice GIT with Suneel Kumar
